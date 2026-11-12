@@ -1,1 +1,0 @@
-# Reference model definition (stub).
